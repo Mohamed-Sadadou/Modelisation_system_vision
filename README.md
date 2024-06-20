@@ -1,5 +1,6 @@
 # Modelisation_system_vision
 This is a notebook for Creation and Reproduction of Caricature Style via StableDiffusion, Detection of Visual Artifacts (Evaluation of Generation Quality).
+Annotated Data : https://drive.google.com/drive/folders/1do4M-Yfm_k8kd20GyIUTC-x7AjTGXPT5?usp=sharing
 # l'Entraînement d'un Modèle Stable Diffusion avec train_text_to_image
 Ce README fournit des instructions détaillées sur la manière d'entraîner un modèle Stable Diffusion en utilisant le script train_text_to_image de la bibliothèque Hugging Face Diffusers. La commande ci-dessous montre comment utiliser divers paramètres pour un entraînement efficace.
 ## Prérequis
